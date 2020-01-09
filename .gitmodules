@@ -1,0 +1,12 @@
+[submodule "grpc"]
+	path = grpc
+	url = https://github.com/grpc/grpc
+[submodule "xfinal"]
+	path = xfinal
+	url = https://github.com/xmh0511/xfinal
+[submodule "gzip-hpp"]
+	path = gzip-hpp
+	url = https://github.com/mapbox/gzip-hpp
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json
